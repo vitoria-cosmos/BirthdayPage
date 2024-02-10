@@ -4,6 +4,8 @@
 
 No cabeçalho você pode navegar pelas sessões da página, estão todas linkadas para seus respectivos caminhos!
 
+## Link da página: https://vitoria-cosmos.github.io/BirthdayPage/
+
 <img src="/assets/pageImages/img01.PNG">
 
 ## Ferramentas utilizadas:
